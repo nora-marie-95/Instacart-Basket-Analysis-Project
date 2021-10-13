@@ -31,3 +31,7 @@ The Instacart stakeholders are most interested in the variety of customers in th
 04 Analysis: Contains the visualizations created for this project  
 05 Send to client: Contains and Excel report that summarizes the analysis  
 Original Data: Contains two of the original data sets (not all data sets could be uploaded due to size limitations) 
+
+## Data
+The data for this project is a number of open-sourced data sets from Instacart. The final merged data set has over 32 million rows and contains information about Instacart orders, products and customers. 
+
