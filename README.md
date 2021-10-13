@@ -24,3 +24,10 @@ The Instacart stakeholders are most interested in the variety of customers in th
 - Are there differences in ordering habits based on a customer’s loyalty status?
 - Are there differences in ordering habits based on a customer’s region?
 - Is there a connection between age and family status in terms of ordering habits?
+
+## Folder Overview 
+01 Project Management: Contains the project brief 
+03 Scripts: Contains all Jupyter notebooks 
+04 Analysis: Contains the visualizations created for this project 
+05 Send to client: Contains and Excel report that summarizes the analysis 
+Original Data: Contains two of the original data sets (not all data sets could be uploaded due to size limitations) 
